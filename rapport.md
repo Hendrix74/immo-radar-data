@@ -1,6 +1,6 @@
 ## Radar immo — 2026-11-09
 
-- 6388 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-08.json) + collecteur local (lbc_alertes_2026-11-09.json)), **109 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 6388 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-08.json) + collecteur local (lbc_alertes_2026-11-09.json)), **95 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 
 ## Nouveautés du jour (4)
 
@@ -34,10 +34,10 @@ Loyer de marché : 9.54 €/m² (Carte des loyers (commune))
 - 94/100 · [Maison 6 pièces à Portes les Valence](https://www.bienici.com/annonce/vente/portes-les-valence-26800/maison/hektor-1_fauqueimmo-1906) — Portes-lès-Valence · 178 000 € · Colocation 5 chambres · +1475 €/mois
 - 93/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/appartement/iad-france-2072286) — Chalon-sur-Saône · 89 900 € · Colocation 3 chambres · +518 €/mois
 - 90/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/appartement/iad-france-2144311) — Cournon-d'Auvergne · 128 000 € · Colocation 3 chambres · +588 €/mois
-- 88/100 · [Immeuble à vendre Thiers](https://www.bienici.com/annonce/vente/thiers-63300/immeuble/netty-teamfi-build-442) — Thiers · 60 000 € · Immeuble tel quel + 2 lot(s) créé(s) · +715 €/mois
-- 88/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/roanne-42300/appartement/iad-france-2076408) — Roanne · 65 000 € · Colocation 3 chambres · +415 €/mois
-- 88/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/iad-france-2101178) — Clermont-Ferrand · 119 900 € · Colocation 3 chambres · +503 €/mois
 - 88/100 · [SAINT APOLLINAIRE](https://www.bienici.com/annonce/vente/saint-apollinaire-21850/appartement/netty-company54852mtc-appt-22671) — Saint-Apollinaire · 149 000 € · Colocation 3 chambres · +531 €/mois
 - 87/100 · [Vente Maison de village 10 pièces](https://www.bienici.com/annonce/vente/gibles-71800/maison/iad-france-2077083) — Gibles · 129 000 € · Tel quel + 3 lot(s) créé(s) · +1281 €/mois
-- 87/100 · [T4 SAINT APOLLINAIRE](https://www.bienici.com/annonce/vente/saint-apollinaire-21850/appartement/hektor-F_DIJONNAISE-46831) — Saint-Apollinaire · 149 000 € · Colocation 3 chambres · +531 €/mois
 - 86/100 · [Vente Maison/villa 7 pièces](https://www.bienici.com/annonce/vente/saint-germain-laval-42260/maison/iad-france-2087492) — Saint-Germain-Laval · 69 000 € · Tel quel + 3 lot(s) créé(s) · +545 €/mois
+- 86/100 · [Appartement 4 pièces 110m2](https://www.bienici.com/annonce/vente/plombieres-les-dijon-21370/appartement/hektor-1_laboutiquedelimmo_21160-268) — Plombières-lès-Dijon · 148 000 € · Colocation 3 chambres · +478 €/mois
+- 86/100 · [Vente Maison de ville 5 pièces](https://www.bienici.com/annonce/vente/vichy-03200/maison/iad-france-2151019) — Vichy · 178 500 € · Colocation 4 chambres · +766 €/mois
+- 86/100 · [Vente Maison/villa 7 pièces](https://www.bienici.com/annonce/vente/champforgeuil-71530/maison/iad-france-2143394) — Champforgeuil · 250 000 € · Colocation 6 chambres · +921 €/mois
+- 86/100 · [Vente Maison traditionnelle 7 pièces](https://www.bienici.com/annonce/vente/valence-26000/maison/iad-france-1992541) — Valence · 290 000 € · Colocation 5 chambres · +912 €/mois
