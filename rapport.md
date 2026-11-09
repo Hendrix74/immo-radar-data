@@ -8,7 +8,7 @@
 [bienici](https://www.bienici.com/annonce/vente/les-martres-d-artiere-63430/maison/gedeon-34184912) · maison 110 m² · DPE ? · 1h57 de Lyon · 222 469 € affiché → **211 346 € négocié**
 **Colocation 4 chambres** : loyers 1856 € HC/mois · brut **8.6 %** · cash-flow **+478 €/mois** (crédit 1310 €) · travaux 27 200 €
 Loyer de marché : 11.63 €/m² (Carte des loyers (commune))
-⚠️ DPE absent de l'annonce : à vérifier sur la fiche · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+⚠️ indicateurs de territoire (population, vacance, délinquance) indisponibles pour cette commune · DPE absent de l'annonce : à vérifier sur la fiche · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 75/100 · Autre · 209 m² — Roanne (42300)
 [leboncoin-alerte](https://www.leboncoin.fr/ad/ventes_immobilieres/3171243922) · autre 209 m² · DPE ? · 1h17 de Lyon · 139 000 € affiché → **132 050 € négocié**
@@ -20,13 +20,13 @@ Loyer de marché : 9.54 €/m² (Carte des loyers (commune))
 [bienici](https://www.bienici.com/annonce/vente/lupe-42520/maison/iad-france-1894474) · maison 175 m² · DPE N · 1h04 de Lyon · 162 000 € affiché → **153 900 € négocié**
 **Immeuble tel quel** : loyers 2044 € HC/mois · brut **12.9 %** · cash-flow **+781 €/mois** (crédit 958 €) · travaux 21 000 €
 Loyer de marché : 12.56 €/m² (Carte des loyers (commune))
-⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+⚠️ indicateurs de territoire (population, vacance, délinquance) indisponibles pour cette commune · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 68/100 · Projet de construction d'une maison 98 m² avec terrain à LES — Les Martres-d'Artière (63430)
 [bienici](https://www.bienici.com/annonce/vente/les-martres-d-artiere-63430/maison/gedeon-34184920) · maison 98 m² · DPE ? · 1h57 de Lyon · 213 500 € affiché → **202 825 € négocié**
 **Colocation 3 chambres** : loyers 1653 € HC/mois · brut **8.1 %** · cash-flow **+327 €/mois** (crédit 1237 €) · travaux 22 260 €
 Loyer de marché : 11.63 €/m² (Carte des loyers (commune))
-⚠️ DPE absent de l'annonce : à vérifier sur la fiche · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+⚠️ indicateurs de territoire (population, vacance, délinquance) indisponibles pour cette commune · DPE absent de l'annonce : à vérifier sur la fiche · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 
 ## Toujours en vente (meilleures des jours précédents)
