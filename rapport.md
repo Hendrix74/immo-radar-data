@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-12
 
-- 9719 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **121 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 9729 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **122 intéressantes**, dont **5 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (4)
+## Nouveautés du jour (5)
 
 ### 74/100 · CHAMALIÈRES – SPACIEUX APPARTEMENT T5 DE 113 M² AVEC BALCON, — Chamalières (63400)
 [bienici](https://www.bienici.com/annonce/vente/chamalieres-63400/appartement/netty-company39896cxp-appt-1961) · appartement 114 m² · DPE D · 2h07 de Lyon · 210 000 € affiché → **199 500 € négocié**
@@ -28,6 +28,12 @@ Loyer de marché : 9.54 €/m² (Carte des loyers (commune))
 **Colocation 3 chambres** : loyers 1428 € HC/mois · brut **8.8 %** · cash-flow **+240 €/mois** (crédit 983 €) · travaux 19 650 €
 Loyer de marché : 11.93 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 62/100 · Immeuble 6 studios + 2 commerces loués — Chalon-sur-Saône — Chalon-sur-Saône (71100)
+[leboncoin](https://www.leboncoin.fr/ad/ventes_immobilieres/3276156238) · autre 222 m² · DPE E · 1h33 de Lyon · 337 000 € affiché → **320 150 € négocié**
+**Immeuble tel quel** : loyers 3208 € HC/mois · brut **10.2 %** · cash-flow **+833 €/mois** (crédit 1914 €) · travaux 26 640 €
+Loyer de marché : 11.35 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements élevée (10.7 %) : marché locatif détendu · vendu par un professionnel : honoraires probablement inclus
 
 
 ## Toujours en vente (meilleures des jours précédents)
