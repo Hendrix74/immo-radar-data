@@ -1,14 +1,32 @@
 ## Radar immo — 2026-11-12
 
-- 9816 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **123 intéressantes**, dont **6 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 9942 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **127 intéressantes**, dont **10 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (6)
+## Nouveautés du jour (10)
+
+### 92/100 · Appartement Cournon D Auvergne 4 pièce(s) 89 m2 — Cournon-d'Auvergne (63800)
+[bienici](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/appartement/laforet-immo-facile-53022311) · appartement 89 m² · DPE E · 2h03 de Lyon · 129 000 € affiché → **122 550 € négocié**
+**Colocation 3 chambres** : loyers 1680 € HC/mois · brut **13.2 %** · cash-flow **+653 €/mois** (crédit 765 €) · travaux 17 430 €
+Loyer de marché : 13.62 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 88/100 · Maison familiale avec 4 chambres, véranda et sous-sol comple — Bourg-en-Bresse (01000)
+[bienici](https://www.bienici.com/annonce/vente/bourg-en-bresse-01000/maison/laforet-immo-facile-52232426) · maison 142 m² · DPE E · 1h01 de Lyon · 220 000 € affiché → **209 000 € négocié**
+**Colocation 4 chambres** : loyers 2240 € HC/mois · brut **9.8 %** · cash-flow **+746 €/mois** (crédit 1385 €) · travaux 44 500 €
+Loyer de marché : 11.96 €/m² (Carte des loyers (commune))
+⚠️ petit pôle étudiant (Bourg-en-Bresse, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 85/100 · Vente Maison traditionnelle 7 pièces — Clermont-Ferrand (63000)
 [bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/maison/iad-france-2155451) · maison 163 m² · DPE E · 2h02 de Lyon · 290 000 € affiché → **275 500 € négocié**
 **Colocation 5 chambres** : loyers 2800 € HC/mois · brut **10.1 %** · cash-flow **+986 €/mois** (crédit 1686 €) · travaux 30 810 €
 Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 83/100 · AHUY Maison individuelle avec jardin et sous-sol complet — Ahuy (21121)
+[bienici](https://www.bienici.com/annonce/vente/ahuy-21121/maison/hektor-buetimmobilier-43070) · maison 178 m² · DPE E · 2h18 de Lyon · 299 000 € affiché → **284 050 € négocié**
+**Colocation 5 chambres** : loyers 2800 € HC/mois · brut **9.8 %** · cash-flow **+905 €/mois** (crédit 1743 €) · travaux 32 610 €
+Loyer de marché : 13.01 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 74/100 · CHAMALIÈRES – SPACIEUX APPARTEMENT T5 DE 113 M² AVEC BALCON, — Chamalières (63400)
@@ -34,6 +52,12 @@ Loyer de marché : 9.54 €/m² (Carte des loyers (commune))
 **Colocation 3 chambres** : loyers 1428 € HC/mois · brut **8.8 %** · cash-flow **+240 €/mois** (crédit 983 €) · travaux 19 650 €
 Loyer de marché : 11.93 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 65/100 · Autun, immeuble de rapport — Autun (71400)
+[bienici](https://www.bienici.com/annonce/vente/autun-71400/immeuble/ag710653-559576868) · autre 260 m² · DPE E · 2h20 de Lyon · 125 000 € affiché → **118 750 € négocié**
+**Tel quel + 1 lot(s) créé(s)** : loyers 2475 € HC/mois · brut **14.0 %** · cash-flow **+967 €/mois** (crédit 1071 €) · travaux 81 450 €
+Loyer de marché : 9.18 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements forte (14.0 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété
 
 ### 62/100 · Immeuble 6 studios + 2 commerces loués — Chalon-sur-Saône — Chalon-sur-Saône (71100)
 [leboncoin](https://www.leboncoin.fr/ad/ventes_immobilieres/3276156238) · autre 222 m² · DPE E · 1h33 de Lyon · 337 000 € affiché → **320 150 € négocié**
