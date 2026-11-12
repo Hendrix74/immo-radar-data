@@ -1,9 +1,15 @@
 ## Radar immo — 2026-11-12
 
-- 9729 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **122 intéressantes**, dont **5 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 9816 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-11.json) + collecteur local (lbc_alertes_2026-11-12.json) + annonces manuelles), **123 intéressantes**, dont **6 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (5)
+## Nouveautés du jour (6)
+
+### 85/100 · Vente Maison traditionnelle 7 pièces — Clermont-Ferrand (63000)
+[bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/maison/iad-france-2155451) · maison 163 m² · DPE E · 2h02 de Lyon · 290 000 € affiché → **275 500 € négocié**
+**Colocation 5 chambres** : loyers 2800 € HC/mois · brut **10.1 %** · cash-flow **+986 €/mois** (crédit 1686 €) · travaux 30 810 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 74/100 · CHAMALIÈRES – SPACIEUX APPARTEMENT T5 DE 113 M² AVEC BALCON, — Chamalières (63400)
 [bienici](https://www.bienici.com/annonce/vente/chamalieres-63400/appartement/netty-company39896cxp-appt-1961) · appartement 114 m² · DPE D · 2h07 de Lyon · 210 000 € affiché → **199 500 € négocié**
