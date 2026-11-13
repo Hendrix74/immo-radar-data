@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-13
 
-- 10710 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-12.json) + collecteur local (lbc_alertes_2026-11-13.json) + annonces manuelles), **136 intéressantes**, dont **8 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 10826 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-12.json) + collecteur local (lbc_alertes_2026-11-13.json) + annonces manuelles), **137 intéressantes**, dont **9 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (8)
+## Nouveautés du jour (9)
 
 ### 82/100 · Appartement T6 en duplex   191 m2 au sol   Terrasse avec vue — Clermont-Ferrand (63000)
 [bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/hektor-MYCLERMONT22-1725) · appartement 191 m² · DPE B · 2h02 de Lyon · 329 000 € affiché → **312 550 € négocié**
@@ -22,6 +22,12 @@ Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
 **Colocation 3 chambres** : loyers 1503 € HC/mois · brut **10.4 %** · cash-flow **+374 €/mois** (crédit 872 €) · travaux 16 710 €
 Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
 ⚠️ charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 79/100 · Maison Chatenoy Le Royal 104.57 m2 — Châtenoy-le-Royal (71880)
+[bienici](https://www.bienici.com/annonce/vente/chatenoy-le-royal-71880/maison/immo-facile-61710231) · maison 105 m² · DPE E · 1h36 de Lyon · 161 000 € affiché → **152 950 € négocié**
+**Colocation 3 chambres** : loyers 1662 € HC/mois · brut **10.6 %** · cash-flow **+570 €/mois** (crédit 944 €) · travaux 19 298 €
+Loyer de marché : 10.97 €/m² (Carte des loyers (commune))
+⚠️ insécurité au-dessus des villes comparables (cambriolages, source Intérieur 2025) · petit pôle étudiant (Chalon-sur-Saône, IUT) : vérifier la demande réelle en colocation avant d'acheter · vendu par un professionnel : honoraires probablement inclus
 
 ### 79/100 · CLERMONT-FERRAND - Appartement T5 de 88 m² avec parking et c — Clermont-Ferrand (63100)
 [bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/ag440414-559659404) · appartement 88 m² · DPE D · 2h02 de Lyon · 169 000 € affiché → **160 550 € négocié**
