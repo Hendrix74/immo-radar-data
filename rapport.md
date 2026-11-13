@@ -1,9 +1,27 @@
 ## Radar immo — 2026-11-13
 
-- 10345 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-12.json) + collecteur local (lbc_alertes_2026-11-13.json) + annonces manuelles), **131 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 10710 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-12.json) + collecteur local (lbc_alertes_2026-11-13.json) + annonces manuelles), **136 intéressantes**, dont **8 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (4)
+## Nouveautés du jour (8)
+
+### 82/100 · Appartement T6 en duplex   191 m2 au sol   Terrasse avec vue — Clermont-Ferrand (63000)
+[bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/hektor-MYCLERMONT22-1725) · appartement 191 m² · DPE B · 2h02 de Lyon · 329 000 € affiché → **312 550 € négocié**
+**Colocation 5 chambres** : loyers 2800 € HC/mois · brut **9.5 %** · cash-flow **+484 €/mois** (crédit 1793 €) · travaux 11 250 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 82/100 · Duplex T6 de 150m2 - Terrasse - Les Carmes/Chamfleuri — Clermont-Ferrand (63100)
+[bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/netty-newmade-appt-3631) · appartement 150 m² · DPE C · 2h02 de Lyon · 329 000 € affiché → **312 550 € négocié**
+**Colocation 5 chambres** : loyers 2715 € HC/mois · brut **9.2 %** · cash-flow **+527 €/mois** (crédit 1793 €) · travaux 11 250 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 79/100 · Appartement T4 de 83 m² à Clermont-Ferrand 63000, Boulevard  — Clermont-Ferrand (63000)
+[bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/ag133861-559765598) · appartement 83 m² · DPE D · 2h02 de Lyon · 149 900 € affiché → **142 405 € négocié**
+**Colocation 3 chambres** : loyers 1503 € HC/mois · brut **10.4 %** · cash-flow **+374 €/mois** (crédit 872 €) · travaux 16 710 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
 
 ### 79/100 · CLERMONT-FERRAND - Appartement T5 de 88 m² avec parking et c — Clermont-Ferrand (63100)
 [bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/ag440414-559659404) · appartement 88 m² · DPE D · 2h02 de Lyon · 169 000 € affiché → **160 550 € négocié**
@@ -28,6 +46,12 @@ Loyer de marché : 9.34 €/m² (Carte des loyers (commune))
 **Colocation 3 chambres** : loyers 1680 € HC/mois · brut **8.6 %** · cash-flow **+155 €/mois** (crédit 1187 €) · travaux 6 750 €
 Loyer de marché : 11.93 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 61/100 · Maison individuelle de 102 m2 avec jardin et garage   Beller — Bellerive-sur-Allier (03700)
+[bienici](https://www.bienici.com/annonce/vente/bellerive-sur-allier-03700/maison/hektor-agence-mary-168) · maison 102 m² · DPE D · 2h17 de Lyon · 222 000 € affiché → **210 900 € négocié**
+**Colocation 4 chambres** : loyers 1716 € HC/mois · brut **8.1 %** · cash-flow **+391 €/mois** (crédit 1292 €) · travaux 24 240 €
+Loyer de marché : 11.61 €/m² (Carte des loyers (commune))
+⚠️ insécurité au-dessus des villes comparables (cambriolages, source Intérieur 2025) · petit pôle étudiant (Vichy, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 
 ## Toujours en vente (meilleures des jours précédents)
