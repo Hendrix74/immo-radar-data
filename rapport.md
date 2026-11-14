@@ -1,6 +1,6 @@
 ## Radar immo — 2026-11-14
 
-- 11609 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-13.json) + collecteur local (lbc_alertes_2026-11-14.json) + annonces manuelles), **147 intéressantes**, dont **10 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 11631 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-13.json) + collecteur local (lbc_alertes_2026-11-14.json) + annonces manuelles), **147 intéressantes**, dont **10 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
 ## Nouveautés du jour (10)
@@ -70,11 +70,11 @@ Loyer de marché : 12.9 €/m² (Carte des loyers (commune))
 
 - 93/100 · [Appartement Type 4 proximité gare](https://www.bienici.com/annonce/vente/bourg-en-bresse-01000/appartement/ag011063-559175825) — Bourg-en-Bresse · 129 000 € · Colocation 3 chambres · +544 €/mois
 - 93/100 · [Maison 6 pièces à Portes les Valence](https://www.bienici.com/annonce/vente/portes-les-valence-26800/maison/hektor-1_fauqueimmo-1906) — Portes-lès-Valence · 178 000 € · Colocation 5 chambres · +1535 €/mois
+- 92/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/appartement/iad-france-2072286) — Chalon-sur-Saône · 89 900 € · Colocation 3 chambres · +525 €/mois
 - 91/100 · [Appartement Cournon D Auvergne 4 pièce(s) 89 m2](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/appartement/laforet-immo-facile-53022311) — Cournon-d'Auvergne · 129 000 € · Colocation 3 chambres · +653 €/mois
 - 90/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/appartement/iad-france-2144311) — Cournon-d'Auvergne · 128 000 € · Colocation 3 chambres · +614 €/mois
 - 88/100 · [SAINT APOLLINAIRE](https://www.bienici.com/annonce/vente/saint-apollinaire-21850/appartement/netty-company54852mtc-appt-22671) — Saint-Apollinaire · 149 000 € · Colocation 3 chambres · +535 €/mois
 - 88/100 · [Maison à vendre de 4 pièces de 90 m²](https://www.bienici.com/annonce/vente/mionnay-01390/maison/guy-hoquet-18-GT0236-6933) — Mionnay · 159 000 € · Tel quel + 3 lot(s) créé(s) · +1449 €/mois
 - 88/100 · [Maison familiale avec 4 chambres  véranda et sous-](https://www.bienici.com/annonce/vente/bourg-en-bresse-01000/maison/laforet-immo-facile-52232426) — Bourg-en-Bresse · 220 000 € · Colocation 4 chambres · +746 €/mois
-- 87/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/appartement/iad-france-2072286) — Chalon-sur-Saône · 89 900 € · Colocation 3 chambres · +525 €/mois
 - 86/100 · [A Vendre: Immeuble avec fort potentiel - Centre de](https://www.bienici.com/annonce/vente/bage-le-chatel-01380/immeuble/nestenn-1-99939655633) — Bâgé-le-Châtel · 159 000 € · Immeuble tel quel + 3 lot(s) créé(s) · +1713 €/mois
 - 86/100 · [Vente Maison/villa 7 pièces](https://www.bienici.com/annonce/vente/champforgeuil-71530/maison/iad-france-2143394) — Champforgeuil · 250 000 € · Colocation 6 chambres · +982 €/mois
