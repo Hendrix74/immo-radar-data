@@ -1,6 +1,6 @@
 ## Radar immo — 2026-11-15
 
-- 11823 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-14.json) + collecteur local (lbc_alertes_2026-11-15.json) + annonces manuelles), **149 intéressantes**, dont **3 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 11833 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-14.json) + collecteur local (lbc_alertes_2026-11-15.json) + annonces manuelles), **149 intéressantes**, dont **3 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
 ## Nouveautés du jour (3)
