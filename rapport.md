@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-17
 
-- 13016 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-16.json) + collecteur local (lbc_alertes_2026-11-17.json) + annonces manuelles), **160 intéressantes**, dont **15 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 13334 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-16.json) + collecteur local (lbc_alertes_2026-11-17.json) + annonces manuelles), **161 intéressantes**, dont **16 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (15)
+## Nouveautés du jour (16)
 
 ### 89/100 · Immeuble à vendre Pont-Évêque — Pont-Évêque (38780)
 [bienici](https://www.bienici.com/annonce/vente/pont-eveque-38780/immeuble/ag383197-553547288) · autre 341 m² · DPE C · 0h42 de Lyon · 249 000 € affiché → **236 550 € négocié**
@@ -65,6 +65,12 @@ Loyer de marché : 10.6 €/m² (Carte des loyers (commune))
 Loyer de marché : 12.31 €/m² (Carte des loyers (commune))
 ⚠️ vacance des logements élevée (9.0 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
+### 70/100 · Maison indépendante, vie de plain-pied, avec jardin — Bellerive-sur-Allier (03700)
+[bienici](https://www.bienici.com/annonce/vente/bellerive-sur-allier-03700/maison/hektor-bcj-immo-274) · maison 137 m² · DPE D · 2h17 de Lyon · 262 000 € affiché → **248 900 € négocié**
+**Colocation 4 chambres** : loyers 2240 € HC/mois · brut **9.0 %** · cash-flow **+613 €/mois** (crédit 1510 €) · travaux 25 440 €
+Loyer de marché : 11.61 €/m² (Carte des loyers (commune))
+⚠️ insécurité au-dessus des villes comparables (cambriolages, source Intérieur 2025) · petit pôle étudiant (Vichy, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
 ### 69/100 · Maison climatisée avec jardin à proximité du centre-ville — Chalon-sur-Saône (71100)
 [bienici](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/maison/ag710853-560479187) · maison 89 m² · DPE D · 1h33 de Lyon · 175 000 € affiché → **166 250 € négocié**
 **Colocation 3 chambres** : loyers 1464 € HC/mois · brut **9.3 %** · cash-flow **+443 €/mois** (crédit 954 €) · travaux 6 750 €
@@ -89,17 +95,12 @@ Loyer de marché : 9.41 €/m² (Carte des loyers (commune))
 Loyer de marché : 13.57 €/m² (Carte des loyers (commune))
 ⚠️ vacance des logements forte (8.8 %) : marché locatif détendu · DPE G : location interdite depuis 2025, rénovation énergétique à chiffrer · taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas
 
-### 61/100 · Maison de village - 185 m² - Cave Voutée - Fort potentiel -  — Les Salles (42440)
-[bienici](https://www.bienici.com/annonce/vente/les-salles-42440/maison/safti-1-1740250) · maison 185 m² · DPE N · 1h22 de Lyon · 56 000 € affiché → **53 200 € négocié**
-**Tel quel** : loyers 928 € HC/mois · brut **13.6 %** · cash-flow **+346 €/mois** (crédit 403 €) · travaux 22 200 €
-Loyer de marché : 7.81 €/m² (Carte des loyers (commune))
-⚠️ vacance des logements élevée (7.7 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
-
+… et 1 autres dans data/annonces.json.
 
 ## Toujours en vente (meilleures des jours précédents)
 
 - 93/100 · [Appartement Type 4 proximité gare](https://www.bienici.com/annonce/vente/bourg-en-bresse-01000/appartement/ag011063-559175825) — Bourg-en-Bresse · 129 000 € · Colocation 3 chambres · +544 €/mois
-- 93/100 · [Appartement Grenoble 4 pièces 92 m2](https://www.bienici.com/annonce/vente/grenoble-38000/appartement/ladresse-1-adresse-14691381) — Grenoble · 149 000 € · Colocation 3 chambres · +548 €/mois
+- 93/100 · [Appartement Grenoble 4 pièces 92 m2](https://www.bienici.com/annonce/vente/grenoble-38000/appartement/ladresse-1-adresse-14691381) — Grenoble · 149 000 € · Colocation 3 chambres · +546 €/mois
 - 92/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/appartement/iad-france-2072286) — Chalon-sur-Saône · 89 900 € · Colocation 3 chambres · +525 €/mois
 - 92/100 · [T4 de 80m2 avec Garage et Cave  CLERMONT-FERRAND](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/apimo-87599546) — Clermont-Ferrand · 108 000 € · Colocation 3 chambres · +543 €/mois
 - 92/100 · [Maison 6 pièces à Portes les Valence](https://www.bienici.com/annonce/vente/portes-les-valence-26800/maison/hektor-1_fauqueimmo-1906) — Portes-lès-Valence · 178 000 € · Colocation 5 chambres · +1535 €/mois
