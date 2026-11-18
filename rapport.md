@@ -1,9 +1,15 @@
 ## Radar immo — 2026-11-18
 
-- 13742 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-17.json) + collecteur local (lbc_alertes_2026-11-18.json) + annonces manuelles), **168 intéressantes**, dont **7 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 13996 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-17.json) + collecteur local (lbc_alertes_2026-11-18.json) + annonces manuelles), **173 intéressantes**, dont **12 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (7)
+## Nouveautés du jour (12)
+
+### 84/100 · Maison de ville à Cournon d'Auvergne — Cournon-d'Auvergne (63800)
+[bienici](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/maison/hektor-immonova-2190) · maison 82 m² · DPE G · 2h03 de Lyon · 148 730 € affiché → **141 294 € négocié**
+**Colocation 3 chambres** : loyers 1620 € HC/mois · brut **9.9 %** · cash-flow **+564 €/mois** (crédit 991 €) · travaux 41 190 €
+Loyer de marché : 13.62 €/m² (Carte des loyers (commune))
+⚠️ DPE G : location interdite depuis 2025, rénovation énergétique à chiffrer · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 78/100 · Clermont-Ferrand – Appartement 5 pièces – 100 m² – 3 chambre — Clermont-Ferrand (63000)
 [bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/ag060811-560744216) · appartement 100 m² · DPE D · 2h02 de Lyon · 175 000 € affiché → **166 250 € négocié**
@@ -16,6 +22,18 @@ Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
 **Colocation 3 chambres** : loyers 1680 € HC/mois · brut **9.9 %** · cash-flow **+395 €/mois** (crédit 1029 €) · travaux 17 315 €
 Loyer de marché : 13.34 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
+### 77/100 · MAISONS 8 PIECES - FONTAINE - MAISONNAT - 38 - ISÈRE — Fontaine (38600)
+[bienici](https://www.bienici.com/annonce/vente/fontaine-38600/maison/dr-house-immo-1-1147658) · maison 153 m² · DPE A · 1h17 de Lyon · 280 000 € affiché → **266 000 € négocié**
+**Colocation 6 chambres** : loyers 2820 € HC/mois · brut **9.9 %** · cash-flow **+1004 €/mois** (crédit 1740 €) · travaux 51 750 €
+Loyer de marché : 12.7 €/m² (Carte des loyers (commune))
+⚠️ population en déclin (-0.4 %/an sur 2017-2023) : demande locative à vérifier · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 76/100 · Maison Duniere Sur Eyrieux 4 pièce(s) 160 m2 — DUNIERE SUR EYRIEUX (07360)
+[bienici](https://www.bienici.com/annonce/vente/duniere-sur-eyrieux-07360/maison/nestenn-1-99939814258) · maison 145 m² · DPE C · 1h51 de Lyon · 160 000 € affiché → **152 000 € négocié**
+**Tel quel + 2 lot(s) créé(s)** : loyers 2172 € HC/mois · brut **9.0 %** · cash-flow **+449 €/mois** (crédit 1466 €) · travaux 122 400 €
+Loyer de marché : 8.89 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété · vendu par un professionnel : honoraires probablement inclus
 
 ### 75/100 · Maison à vendre Vichy — Vichy (03200)
 [bienici](https://www.bienici.com/annonce/vente/vichy-03200/maison/netty-company54466zys-house-53250) · maison 120 m² · DPE E · 2h14 de Lyon · 151 200 € affiché → **143 640 € négocié**
@@ -40,6 +58,18 @@ Loyer de marché : 11.96 €/m² (Carte des loyers (commune))
 **Colocation 4 chambres** : loyers 2060 € HC/mois · brut **9.0 %** · cash-flow **+583 €/mois** (crédit 1396 €) · travaux 25 800 €
 Loyer de marché : 10.15 €/m² (Carte des loyers (commune))
 ⚠️ population en déclin (-0.6 %/an sur 2017-2023) : demande locative à vérifier · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 69/100 · Bourg-Les-Valence - Maison 98m² - 4 chambres - Carport — Bourg-lès-Valence (26500)
+[bienici](https://www.bienici.com/annonce/vente/bourg-les-valence-26500/maison/ag261182-560880227) · maison 98 m² · DPE C · 1h21 de Lyon · 219 000 € affiché → **208 050 € négocié**
+**Colocation 4 chambres** : loyers 1660 € HC/mois · brut **8.0 %** · cash-flow **+389 €/mois** (crédit 1259 €) · travaux 20 760 €
+Loyer de marché : 11.67 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements élevée (6.8 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 65/100 · Une demeure de caractère au charme intemporel — Saint-Julien-de-Peyrolas (30760)
+[bienici](https://www.bienici.com/annonce/vente/saint-julien-de-peyrolas-30760/maison/apimo-87540473) · maison 250 m² · DPE N · 2h26 de Lyon · 217 000 € affiché → **206 150 € négocié**
+**Tel quel** : loyers 2231 € HC/mois · brut **10.4 %** · cash-flow **+522 €/mois** (crédit 1295 €) · travaux 30 000 €
+Loyer de marché : 10.19 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 61/100 · Vichy - maison 99m² - garage et jardin — Vichy (03200)
 [bienici](https://www.bienici.com/annonce/vente/vichy-03200/maison/safti-1-1743399) · maison 99 m² · DPE D · 2h14 de Lyon · 180 000 € affiché → **171 000 € négocié**
