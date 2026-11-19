@@ -1,9 +1,15 @@
 ## Radar immo — 2026-11-19
 
-- 14633 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-18.json) + collecteur local (lbc_alertes_2026-11-19.json) + annonces manuelles), **175 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14854 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-18.json) + collecteur local (lbc_alertes_2026-11-19.json) + annonces manuelles), **179 intéressantes**, dont **9 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (4)
+## Nouveautés du jour (9)
+
+### 95/100 · PLATEAU A AMENAGER AVEC TERRAIN ET STATIONNEMENTS — Tramoyes (01390)
+[bienici](https://www.bienici.com/annonce/vente/tramoyes-01390/maison/safti-1-1743901) · maison 86 m² · DPE N · 0h25 de Lyon · 160 000 € affiché → **152 000 € négocié**
+**Colocation 3 chambres** : loyers 1680 € HC/mois · brut **10.9 %** · cash-flow **+657 €/mois** (crédit 927 €) · travaux 17 070 €
+Loyer de marché : 15.05 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 90/100 · PLATEAU A RENOVER AVEC TERRAIN ET PLACES DE PARKING — Tramoyes (01390)
 [bienici](https://www.bienici.com/annonce/vente/tramoyes-01390/maison/safti-1-1743899) · maison 100 m² · DPE N · 0h25 de Lyon · 160 000 € affiché → **152 000 € négocié**
@@ -11,10 +17,28 @@
 Loyer de marché : 15.05 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · vendu par un professionnel : honoraires probablement inclus
 
+### 88/100 · T4 — Dijon (21000)
+[bienici](https://www.bienici.com/annonce/vente/dijon-21000/appartement/ag210363-561163751) · appartement 83 m² · DPE E · 2h11 de Lyon · 149 900 € affiché → **142 405 € négocié**
+**Colocation 3 chambres** : loyers 1605 € HC/mois · brut **11.1 %** · cash-flow **+499 €/mois** (crédit 872 €) · travaux 16 710 €
+Loyer de marché : 13.34 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
+
 ### 79/100 · GERZAT - Maison de bourg avec cour, 3 chambres — Gerzat (63360)
 [bienici](https://www.bienici.com/annonce/vente/gerzat-63360/maison/hektor-IMMOHA-9557) · maison 110 m² · DPE C · 2h00 de Lyon · 195 000 € affiché → **185 250 € négocié**
 **Colocation 3 chambres** : loyers 1680 € HC/mois · brut **9.0 %** · cash-flow **+466 €/mois** (crédit 1128 €) · travaux 20 006 €
 Loyer de marché : 12.09 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 79/100 · Belle maison sur la commune de SAINT APOLLINAIRE — Saint-Apollinaire (21850)
+[bienici](https://www.bienici.com/annonce/vente/saint-apollinaire-21850/maison/safti-1-1743459) · maison 106 m² · DPE D · 2h11 de Lyon · 265 000 € affiché → **251 750 € négocié**
+**Colocation 4 chambres** : loyers 2144 € HC/mois · brut **8.6 %** · cash-flow **+551 €/mois** (crédit 1507 €) · travaux 21 720 €
+Loyer de marché : 13.96 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 76/100 · MAISON 175M2 plancher à diviser en 3 appartements — Châtillon-la-Palud (01320)
+[bienici](https://www.bienici.com/annonce/vente/chatillon-la-palud-01320/maison/safti-1-1744224) · maison 170 m² · DPE N · 0h58 de Lyon · 185 000 € affiché → **175 750 € négocié**
+**Immeuble tel quel** : loyers 2367 € HC/mois · brut **13.3 %** · cash-flow **+891 €/mois** (crédit 1077 €) · travaux 20 400 €
+Loyer de marché : 12.9 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 73/100 · Ancienne grange à fort potentiel – Chilly — Chilly (74270)
@@ -22,6 +46,12 @@ Loyer de marché : 12.09 €/m² (Carte des loyers (commune))
 **Tel quel** : loyers 4187 € HC/mois · brut **20.7 %** · cash-flow **+2169 €/mois** (crédit 1226 €) · travaux 36 000 €
 Loyer de marché : 16.69 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · rendement > 20 % : trop beau, vérifier surface, prix et loyers avant tout · vendu par un professionnel : honoraires probablement inclus
+
+### 71/100 · Grange 180m2  mitoyenne — La Chapelle (73660)
+[bienici](https://www.bienici.com/annonce/vente/la-chapelle-73660/maison/hektor-millehabitat-1120) · maison 180 m² · DPE N · 2h06 de Lyon · 79 000 € affiché → **75 050 € négocié**
+**Tel quel** : loyers 1737 € HC/mois · brut **19.9 %** · cash-flow **+898 €/mois** (crédit 522 €) · travaux 21 600 €
+Loyer de marché : 11.54 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 62/100 · Chamalieres - Appartement T5 de 100 m2 avec garage et cave — Chamalières (63400)
 [bienici](https://www.bienici.com/annonce/vente/chamalieres-63400/appartement/guy-hoquet-immo-facile-7089999) · appartement 100 m² · DPE D · 2h07 de Lyon · 200 000 € affiché → **190 000 € négocié**
