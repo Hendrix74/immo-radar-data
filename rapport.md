@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-20
 
-- 14075 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-19.json) + collecteur local (lbc_alertes_2026-11-20.json) + annonces manuelles), **182 intéressantes**, dont **9 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14449 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-19.json) + collecteur local (lbc_alertes_2026-11-20.json) + annonces manuelles), **183 intéressantes**, dont **10 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (9)
+## Nouveautés du jour (10)
 
 ### 91/100 · Norges la ville, Duplex 90 m2 — Norges-la-Ville (21490)
 [bienici](https://www.bienici.com/annonce/vente/norges-la-ville-21490/appartement/hektor-cdimmobilier-42751) · appartement 90 m² · DPE E · 2h18 de Lyon · 107 000 € affiché → **101 650 € négocié**
@@ -17,11 +17,11 @@ Loyer de marché : 12.18 €/m² (Carte des loyers (commune))
 Loyer de marché : 11.19 €/m² (Carte des loyers (commune))
 ⚠️ vacance des logements élevée (7.1 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété · vendu par un professionnel : honoraires probablement inclus
 
-### 79/100 · ORMES - Maison à vendre - 3 pièces, 83 m², 127 000 € — Ormes (71290)
-[bienici](https://www.bienici.com/annonce/vente/ormes-71290/maison/immo-facile-61576892) · maison 107 m² · DPE D · 1h32 de Lyon · 127 000 € affiché → **120 650 € négocié**
-**Tel quel + 2 lot(s) créé(s)** : loyers 1968 € HC/mois · brut **9.4 %** · cash-flow **+558 €/mois** (crédit 1268 €) · travaux 117 840 €
-Loyer de marché : 10.06 €/m² (Carte des loyers (commune))
-⚠️ vacance des logements élevée (7.8 %) : marché locatif détendu · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété · vendu par un professionnel : honoraires probablement inclus
+### 81/100 · CEBAZAT (63118) – MAISON FAMILIALE DE 118 M² AVEC 4 CHAMBRES — Cébazat (63118)
+[bienici](https://www.bienici.com/annonce/vente/cebazat-63118/maison/ag060811-561434468) · maison 118 m² · DPE E · 2h02 de Lyon · 249 000 € affiché → **236 550 € négocié**
+**Colocation 4 chambres** : loyers 2136 € HC/mois · brut **9.1 %** · cash-flow **+634 €/mois** (crédit 1430 €) · travaux 23 160 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 79/100 · DIJON - APPARTEMENT T5 AVEC BALCONS — Dijon (21000)
 [bienici](https://www.bienici.com/annonce/vente/dijon-21000/appartement/ag210441-561205472) · appartement 111 m² · DPE D · 2h11 de Lyon · 230 000 € affiché → **218 500 € négocié**
@@ -52,6 +52,12 @@ Loyer de marché : 13.34 €/m² (Carte des loyers (commune))
 **Tel quel + 2 lot(s) créé(s)** : loyers 2841 € HC/mois · brut **10.2 %** · cash-flow **+709 €/mois** (crédit 1692 €) · travaux 128 250 €
 Loyer de marché : 9.18 €/m² (Carte des loyers (commune))
 ⚠️ vacance des logements forte (14.0 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété
+
+### 61/100 · Ensemble immobilier de 2 appartements+potentiel supplémentai — Albertville (73200)
+[bienici](https://www.bienici.com/annonce/vente/albertville-73200/appartement/ag732265-561407681) · appartement 168 m² · DPE D · 1h47 de Lyon · 130 000 € affiché → **123 500 € négocié**
+**Tel quel** : loyers 2096 € HC/mois · brut **16.1 %** · cash-flow **+617 €/mois** (crédit 784 €) · travaux 20 160 €
+Loyer de marché : 14.68 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements forte (10.3 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
 
 ### 60/100 · Immeuble — Roanne (42300)
 [bienici](https://www.bienici.com/annonce/vente/roanne-42300/immeuble/immo-facile-61639497) · autre 228 m² · DPE D · 1h17 de Lyon · 180 000 € affiché → **171 000 € négocié**
