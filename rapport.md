@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-21
 
-- 14447 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-20.json) + collecteur local (lbc_alertes_2026-11-21.json) + annonces manuelles), **179 intéressantes**, dont **3 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14646 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-20.json) + collecteur local (lbc_alertes_2026-11-21.json) + annonces manuelles), **180 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (3)
+## Nouveautés du jour (4)
 
 ### 84/100 · SAINT APOLLINAIRE — Saint-Apollinaire (21850)
 [bienici](https://www.bienici.com/annonce/vente/saint-apollinaire-21850/maison/netty-company54852mtc-house-24877) · maison 167 m² · DPE E · 2h11 de Lyon · 295 000 € affiché → **280 250 € négocié**
@@ -16,6 +16,12 @@ Loyer de marché : 13.96 €/m² (Carte des loyers (commune))
 **Colocation 5 chambres** : loyers 2620 € HC/mois · brut **11.0 %** · cash-flow **+1113 €/mois** (crédit 1447 €) · travaux 25 530 €
 Loyer de marché : 15.17 €/m² (Carte des loyers (commune))
 ⚠️ population en déclin (-0.3 %/an sur 2017-2023) : demande locative à vérifier · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 68/100 · Exclusivité A VENDRE IMMEUBLE DE RAPPORT – PARAY LE MONIAL ( — Paray-le-Monial (71600)
+[bienici](https://www.bienici.com/annonce/vente/paray-le-monial-71600/immeuble/ag340369-561715916) · autre 274 m² · DPE B · 1h44 de Lyon · 169 000 € affiché → **160 550 € négocié**
+**Tel quel + 1 lot(s) créé(s)** : loyers 2635 € HC/mois · brut **12.2 %** · cash-flow **+852 €/mois** (crédit 1313 €) · travaux 83 130 €
+Loyer de marché : 9.36 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements forte (9.3 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété
 
 ### 65/100 · Belle Terrasse, grand garage et petit local pro avec vitrine — Les Martres-de-Veyre (63730)
 [bienici](https://www.bienici.com/annonce/vente/les-martres-de-veyre-63730/maison/immo-facile-60538008) · maison 132 m² · DPE F · 2h10 de Lyon · 180 200 € affiché → **171 190 € négocié**
