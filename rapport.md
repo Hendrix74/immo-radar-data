@@ -1,11 +1,16 @@
 ## Radar immo — 2026-11-23
 
-- 14059 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-22.json) + collecteur local (lbc_alertes_2026-11-23.json) + annonces manuelles), **170 intéressantes**, dont **0 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14244 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-22.json) + collecteur local (lbc_alertes_2026-11-23.json) + annonces manuelles), **171 intéressantes**, dont **1 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (0)
+## Nouveautés du jour (1)
 
-Rien de nouveau qui passe les seuils aujourd'hui.
+### 87/100 · EXCLUSIVITE BEAUMONT LES VALENCE — Beaumont-lès-Valence (26760)
+[bienici](https://www.bienici.com/annonce/vente/beaumont-les-valence-26760/maison/netty-company38403xau-house-9659) · maison 188 m² · DPE D · 1h28 de Lyon · 289 000 € affiché → **274 550 € négocié**
+**Colocation 5 chambres** : loyers 2800 € HC/mois · brut **10.0 %** · cash-flow **+966 €/mois** (crédit 1696 €) · travaux 33 810 €
+Loyer de marché : 12.34 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
 
 ## Toujours en vente (meilleures des jours précédents)
 
