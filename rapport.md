@@ -1,16 +1,11 @@
-## Radar immo — 2026-11-22
+## Radar immo — 2026-11-23
 
-- 14574 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-21.json) + collecteur local (lbc_alertes_2026-11-22.json) + annonces manuelles), **178 intéressantes**, dont **1 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14059 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-22.json) + collecteur local (lbc_alertes_2026-11-23.json) + annonces manuelles), **170 intéressantes**, dont **0 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (1)
+## Nouveautés du jour (0)
 
-### 81/100 · Maison Riorges 6 pièce(s) 147.27 m2 — Riorges (42153)
-[bienici](https://www.bienici.com/annonce/vente/riorges-42153/maison/immo-facile-61775952) · maison 147 m² · DPE D · 1h21 de Lyon · 265 000 € affiché → **251 750 € négocié**
-**Colocation 5 chambres** : loyers 2095 € HC/mois · brut **8.2 %** · cash-flow **+499 €/mois** (crédit 1544 €) · travaux 28 922 €
-Loyer de marché : 9.82 €/m² (Carte des loyers (commune))
-⚠️ petit pôle étudiant (Roanne, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
-
+Rien de nouveau qui passe les seuils aujourd'hui.
 
 ## Toujours en vente (meilleures des jours précédents)
 
