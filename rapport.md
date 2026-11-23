@@ -1,15 +1,33 @@
 ## Radar immo — 2026-11-23
 
-- 14244 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-22.json) + collecteur local (lbc_alertes_2026-11-23.json) + annonces manuelles), **171 intéressantes**, dont **1 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14465 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-22.json) + collecteur local (lbc_alertes_2026-11-23.json) + annonces manuelles), **174 intéressantes**, dont **4 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (1)
+## Nouveautés du jour (4)
 
 ### 87/100 · EXCLUSIVITE BEAUMONT LES VALENCE — Beaumont-lès-Valence (26760)
 [bienici](https://www.bienici.com/annonce/vente/beaumont-les-valence-26760/maison/netty-company38403xau-house-9659) · maison 188 m² · DPE D · 1h28 de Lyon · 289 000 € affiché → **274 550 € négocié**
 **Colocation 5 chambres** : loyers 2800 € HC/mois · brut **10.0 %** · cash-flow **+966 €/mois** (crédit 1696 €) · travaux 33 810 €
 Loyer de marché : 12.34 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 77/100 · Maison Cournon D Auvergne 5 pièce(s) 115 m2 — Cournon-d'Auvergne (63800)
+[bienici](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/maison/laforet-immo-facile-53003789) · maison 115 m² · DPE D · 2h03 de Lyon · 295 000 € affiché → **280 250 € négocié**
+**Colocation 4 chambres** : loyers 2240 € HC/mois · brut **8.2 %** · cash-flow **+483 €/mois** (crédit 1672 €) · travaux 22 800 €
+Loyer de marché : 13.62 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 70/100 · PÉRONNAS – Le charme du duplex, tout à portée ! — Péronnas (01960)
+[bienici](https://www.bienici.com/annonce/vente/peronnas-01960/appartement/safti-1-1743450) · appartement 94 m² · DPE D · 1h01 de Lyon · 179 000 € affiché → **170 050 € négocié**
+**Colocation 3 chambres** : loyers 1650 € HC/mois · brut **9.7 %** · cash-flow **+366 €/mois** (crédit 1033 €) · travaux 18 030 €
+Loyer de marché : 12.11 €/m² (Carte des loyers (commune))
+⚠️ insécurité au-dessus des villes comparables (cambriolages, source Intérieur 2025) · petit pôle étudiant (Bourg-en-Bresse, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · charges de copropriété estimées
+
+### 62/100 · Appartement 5 pièces 3 chambres avec cave et parking — Clermont-Ferrand (63000)
+[bienici](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/hektor-VOSAGENTS2022-1251) · appartement 93 m² · DPE C · 2h02 de Lyon · 225 000 € affiché → **213 750 € négocié**
+**Colocation 3 chambres** : loyers 1677 € HC/mois · brut **8.3 %** · cash-flow **+205 €/mois** (crédit 1219 €) · travaux 6 750 €
+Loyer de marché : 12.49 €/m² (Carte des loyers (commune))
+⚠️ taxe foncière estimée (non communiquée) · charges de copropriété estimées · vendu par un professionnel : honoraires probablement inclus
 
 
 ## Toujours en vente (meilleures des jours précédents)
