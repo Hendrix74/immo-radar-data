@@ -1,9 +1,9 @@
 ## Radar immo — 2026-11-25
 
-- 14723 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-25.json) + annonces manuelles), **175 intéressantes**, dont **14 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14774 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-25.json) + annonces manuelles), **176 intéressantes**, dont **15 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (14)
+## Nouveautés du jour (15)
 
 ### 91/100 · Maison Bourgeoise 230 m² avec jardin 625 m² — Livron-sur-Drôme (26250)
 [bienici](https://www.bienici.com/annonce/vente/livron-sur-drome-26250/maison/netty-company54396zsr-house-73613) · maison 230 m² · DPE D · 1h38 de Lyon · 199 500 € affiché → **189 525 € négocié**
@@ -76,6 +76,12 @@ Loyer de marché : 11.77 €/m² (Carte des loyers (commune))
 **Immeuble tel quel** : loyers 1833 € HC/mois · brut **10.5 %** · cash-flow **+481 €/mois** (crédit 1056 €) · travaux 15 226 €
 Loyer de marché : 11.94 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
+
+### 63/100 · 188 m2 à fort potentiel sur les quais de Saint Vallier — Saint-Vallier (26240)
+[bienici](https://www.bienici.com/annonce/vente/saint-vallier-26240/maison/hektor-255_iparticuliersadmin-31341) · maison 188 m² · DPE C · 1h13 de Lyon · 110 000 € affiché → **104 500 € négocié**
+**Immeuble tel quel** : loyers 1448 € HC/mois · brut **12.6 %** · cash-flow **+516 €/mois** (crédit 691 €) · travaux 22 560 €
+Loyer de marché : 9.06 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements forte (15.2 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
 ### 63/100 · Appartement à vendre 5 pièces DIJON (21) de 95 m² avec grand — Dijon (21000)
 [bienici](https://www.bienici.com/annonce/vente/dijon-21000/appartement/ag340369-562608896) · appartement 95 m² · DPE C · 2h11 de Lyon · 239 000 € affiché → **227 050 € négocié**
