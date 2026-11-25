@@ -1,9 +1,9 @@
-## Radar immo — 2026-11-24
+## Radar immo — 2026-11-25
 
-- 14199 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-23.json) + collecteur local (lbc_alertes_2026-11-24.json) + annonces manuelles), **172 intéressantes**, dont **9 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
+- 14476 annonces suivies (bienici + collecteur local (lbc_alertes_2026-11-25.json) + annonces manuelles), **170 intéressantes**, dont **10 nouvelles** aujourd'hui. Seuils : cash-flow ≥ 0 €, brut ≥ 8.0 %, score ≥ 60.
 - Erreurs de collecte : 1 (voir journal).
 
-## Nouveautés du jour (9)
+## Nouveautés du jour (10)
 
 ### 91/100 · Maison Bourgeoise 230 m² avec jardin 625 m² — Livron-sur-Drôme (26250)
 [bienici](https://www.bienici.com/annonce/vente/livron-sur-drome-26250/maison/netty-company54396zsr-house-73613) · maison 230 m² · DPE D · 1h38 de Lyon · 199 500 € affiché → **189 525 € négocié**
@@ -29,7 +29,7 @@ Loyer de marché : 14.64 €/m² (Carte des loyers (commune))
 Loyer de marché : 13.65 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
-### 81/100 · Grand appartement proche des boulevards de Valence — Valence (26000)
+### 80/100 · Grand appartement proche des boulevards de Valence — Valence (26000)
 [bienici](https://www.bienici.com/annonce/vente/valence-26000/appartement/safti-1-1732717) · appartement 114 m² · DPE D · 1h22 de Lyon · 220 000 € affiché → **209 000 € négocié**
 **Colocation 4 chambres** : loyers 1972 € HC/mois · brut **9.4 %** · cash-flow **+421 €/mois** (crédit 1274 €) · travaux 22 680 €
 Loyer de marché : 11.93 €/m² (Carte des loyers (commune))
@@ -41,19 +41,25 @@ Loyer de marché : 11.93 €/m² (Carte des loyers (commune))
 Loyer de marché : 9.82 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété · vendu par un professionnel : honoraires probablement inclus
 
-### 74/100 · Maison de ville 5 pièces — Chalon-sur-Saône (71100)
+### 73/100 · Maison de ville 5 pièces — Chalon-sur-Saône (71100)
 [bienici](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/maison/ag743447-562270862) · maison 107 m² · DPE D · 1h33 de Lyon · 179 000 € affiché → **170 050 € négocié**
 **Colocation 3 chambres** : loyers 1680 € HC/mois · brut **9.8 %** · cash-flow **+543 €/mois** (crédit 1041 €) · travaux 19 590 €
 Loyer de marché : 11.35 €/m² (Carte des loyers (commune))
 ⚠️ vacance des logements forte (10.7 %) : marché locatif détendu · petit pôle étudiant (Chalon-sur-Saône, IUT) : vérifier la demande réelle en colocation avant d'acheter · taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
-### 66/100 · Immeuble d'environ 126 m2 composé de 3 appartements à Espelu — Espeluche (26780)
+### 71/100 · SAINT BOIL EN EXCLUSIVITE — Saint-Boil (71390)
+[bienici](https://www.bienici.com/annonce/vente/saint-boil-71390/maison/ag710844-562471109) · maison 387 m² · DPE N · 1h39 de Lyon · 149 000 € affiché → **141 550 € négocié**
+**Tel quel + 1 lot(s) créé(s)** : loyers 3186 € HC/mois · brut **15.4 %** · cash-flow **+1350 €/mois** (crédit 1253 €) · travaux 92 190 €
+Loyer de marché : 11.77 €/m² (Carte des loyers (commune))
+⚠️ vacance des logements forte (11.1 %) : marché locatif détendu · taxe foncière estimée (non communiquée) · travaux > 40 % du prix : chantier lourd, délais et aléas · division : vérifier PLU, autorisation d'urbanisme et règlement de copropriété
+
+### 65/100 · Immeuble d'environ 126 m2 composé de 3 appartements à Espelu — Espeluche (26780)
 [bienici](https://www.bienici.com/annonce/vente/espeluche-26780/immeuble/hektor-labastideimmobilier-636) · autre 127 m² · DPE D · 2h00 de Lyon · 186 000 € affiché → **176 700 € négocié**
 **Immeuble tel quel** : loyers 1833 € HC/mois · brut **10.5 %** · cash-flow **+481 €/mois** (crédit 1056 €) · travaux 15 226 €
 Loyer de marché : 11.94 €/m² (Carte des loyers (commune))
 ⚠️ taxe foncière estimée (non communiquée) · vendu par un professionnel : honoraires probablement inclus
 
-### 63/100 · Maison de ville 2 appartements et un commerce — Courpière (63120)
+### 62/100 · Maison de ville 2 appartements et un commerce — Courpière (63120)
 [bienici](https://www.bienici.com/annonce/vente/courpiere-63120/maison/safti-1-1745123) · maison 120 m² · DPE N · 1h52 de Lyon · 69 990 € affiché → **66 491 € négocié**
 **Immeuble tel quel + 1 lot(s) créé(s)** : loyers 1449 € HC/mois · brut **11.3 %** · cash-flow **+495 €/mois** (crédit 774 €) · travaux 80 250 €
 Loyer de marché : 8.13 €/m² (Carte des loyers (commune))
@@ -64,11 +70,11 @@ Loyer de marché : 8.13 €/m² (Carte des loyers (commune))
 
 - 94/100 · [PLATEAU A AMENAGER AVEC TERRAIN ET STATIONNEMENTS](https://www.bienici.com/annonce/vente/tramoyes-01390/maison/safti-1-1743901) — Tramoyes · 160 000 € · Colocation 3 chambres · +657 €/mois
 - 92/100 · [Appartement Grenoble 4 pièces 92 m2](https://www.bienici.com/annonce/vente/grenoble-38000/appartement/ladresse-1-adresse-14691381) — Grenoble · 149 000 € · Colocation 3 chambres · +546 €/mois
-- 91/100 · [T4 de 80m2 avec Garage et Cave  CLERMONT-FERRAND](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/apimo-87599546) — Clermont-Ferrand · 108 000 € · Colocation 3 chambres · +543 €/mois
 - 91/100 · [Maison 6 pièces à Portes les Valence](https://www.bienici.com/annonce/vente/portes-les-valence-26800/maison/hektor-1_fauqueimmo-1906) — Portes-lès-Valence · 178 000 € · Colocation 5 chambres · +1535 €/mois
-- 90/100 · [Vente Appartement 4 pièces](https://www.bienici.com/annonce/vente/chalon-sur-saone-71100/appartement/iad-france-2072286) — Chalon-sur-Saône · 89 900 € · Colocation 3 chambres · +525 €/mois
 - 90/100 · [Norges la ville  Duplex 90 m2](https://www.bienici.com/annonce/vente/norges-la-ville-21490/appartement/hektor-cdimmobilier-42751) — Norges-la-Ville · 107 000 € · Colocation 3 chambres · +690 €/mois
+- 90/100 · [T4 de 80m2 avec Garage et Cave  CLERMONT-FERRAND](https://www.bienici.com/annonce/vente/clermont-ferrand-63100/appartement/apimo-87599546) — Clermont-Ferrand · 108 000 € · Colocation 3 chambres · +543 €/mois
 - 90/100 · [T4 de 80m2 avec Garage et Cave  CLERMONT-FERRAND](https://www.bienici.com/annonce/vente/clermont-ferrand-63000/appartement/apimo-87512565) — Clermont-Ferrand · 108 000 € · Colocation 3 chambres · +543 €/mois
 - 90/100 · [Appartement Cournon D Auvergne 4 pièce(s) 89 m2](https://www.bienici.com/annonce/vente/cournon-d-auvergne-63800/appartement/laforet-immo-facile-53022311) — Cournon-d'Auvergne · 129 000 € · Colocation 3 chambres · +653 €/mois
 - 89/100 · [PLATEAU A RENOVER AVEC TERRAIN ET PLACES DE PARKIN](https://www.bienici.com/annonce/vente/tramoyes-01390/maison/safti-1-1743899) — Tramoyes · 160 000 € · Colocation 4 chambres · +724 €/mois
 - 89/100 · [Lot de 4 plateaux pour création d'appartements](https://www.bienici.com/annonce/vente/grenoble-38000/appartement/netty-company41634ypz-appt-6305) — Grenoble · 320 000 € · Colocation 6 chambres · +984 €/mois
+- 88/100 · [Appartement 4 pièces de 90 m² à St Martin Le Vinou](https://www.bienici.com/annonce/vente/saint-martin-le-vinoux-38950/appartement/immo-facile-61734100) — Saint-Martin-le-Vinoux · 165 000 € · Colocation 3 chambres · +534 €/mois
